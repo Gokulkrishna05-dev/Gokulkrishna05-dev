@@ -1,21 +1,26 @@
-## Hi there 👋 It's me Gokul Krishna  
-
-Certified **Java Full Stack Developer** | Open to Work 🚀  
-
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/e4/26/a3/e426a37e6da8b0b3c52e4f8c4b56c4e3.gif">
-
-- 🔭 Here's my [portfolio](https://gokulkrishna05-dev.github.io/Gokul-Portfolio/)  
-- 🌱 I’m currently sharpening my skills in **Java Full Stack Development** and exploring modern frameworks  
-- ⚡ Fun fact: I love building things that solve real-world problems  
-- 💼 Currently seeking **Software Development / Java Full Stack opportunities**  
-
-- Social Presence  
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gokulkrishhh/)  
+<!-- Profile Banner Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Gokul+Krishna;Certified+Java+Full+Stack+Developer;Open+to+Work+🚀">
+</h1>
 
 ---
 
-### 💻 I code in  
-<p align="left">
+## About Me  
+
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/77/17/2c/77172c52a4ef8b7c6b9a4d34b2e705a0.gif">
+
+- 🔭 Here's my [🌐 Portfolio](https://gokulkrishna05-dev.github.io/Gokul-Portfolio/)  
+- 🌱 Currently sharpening my skills in **Java Full Stack Development**  
+- ⚡ Fun fact: I love building things that solve real-world problems  
+- 💼 Actively seeking **Software Development / Java Full Stack opportunities**  
+- Social Presence:  
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gokulkrishhh/)  
+
+---
+
+## 🚀 Tech Stack  
+
+<p align="center">
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/>  
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>  
@@ -26,8 +31,9 @@ Certified **Java Full Stack Developer** | Open to Work 🚀
 
 ---
 
-### ⚙️ Tools I Use  
-<p align="left">
+## ⚙️ Tools I Use  
+
+<p align="center">
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  
   <img height="50" width="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>  
   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  
@@ -36,13 +42,15 @@ Certified **Java Full Stack Developer** | Open to Work 🚀
 
 ---
 
-### 💻 Workspace Specs  
-<img height="30" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  
-<img height="30" src="https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>  
-<img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  
+## 💻 Workspace Specs  
+
+<p align="center">
+  <img height="30" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  
+  <img height="30" src="https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>  
+  <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  
+</p>
 
 ---
 
-### 📊 GitHub Contribution Graph  
-[![Gokul’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokulkrishna05-dev&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-
+## 📊 GitHub Contribution Graph  
+[![Gokul’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokulkrishna05-dev&bg_color=0d1117&color=00F7FF&line=38EF7D&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
