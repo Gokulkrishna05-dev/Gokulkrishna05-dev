@@ -8,15 +8,27 @@
 
 ## About Me  
 
-<img align="right" width="270" height="190" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
+🔭 Here's my 🌐 Portfolio
 
-- 🔭 Here's my [🌐 Portfolio](https://gokulkrishna05-dev.github.io/Gokul-Portfolio/)  
-- 🌱 Currently sharpening my skills in **Java Full Stack Development**  
-- ⚡ Fun fact: I love building things that solve real-world problems  
-- 💼 Actively seeking **Software Development / Java Full Stack opportunities**  
-- Social Presence:  
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gokulkrishhh/)  
+👨‍💻 I am a Certified Java Full Stack Developer with a strong foundation in front-end and back-end technologies.
+
+🌱 I enjoy working on scalable applications, REST APIs, and database-driven solutions.
+
+💡 Passionate about problem solving, DSA, and applying modern development practices.
+
+🚀 Currently exploring Spring Boot, React, and Cloud deployment to strengthen my full-stack skills.
+
+🎯 My career goal is to become a Software Engineer contributing to impactful products that make a difference.
+
+⚡ Fun fact: I love solving coding challenges and experimenting with new tools.
+
+💼 Actively seeking Software Development / Java Full Stack opportunities
+
+🌍 Connect with me on
+<p> </p>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
 
