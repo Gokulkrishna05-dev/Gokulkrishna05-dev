@@ -3,11 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Gokul+Krishna;Certified+Java+Full+Stack+Developer;Open+to+Work+🚀">
 </h1>
 
+
 ---
 
 ## About Me  
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/77/17/2c/77172c52a4ef8b7c6b9a4d34b2e705a0.gif">
+<img align="right" width="270" height="190" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
 
 - 🔭 Here's my [🌐 Portfolio](https://gokulkrishna05-dev.github.io/Gokul-Portfolio/)  
 - 🌱 Currently sharpening my skills in **Java Full Stack Development**  
@@ -15,6 +17,12 @@
 - 💼 Actively seeking **Software Development / Java Full Stack opportunities**  
 - Social Presence:  
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gokulkrishhh/)  
+
+
+
+
+
+
 
 ---
 
