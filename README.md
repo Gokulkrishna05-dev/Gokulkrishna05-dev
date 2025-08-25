@@ -2,7 +2,7 @@
 
 Certified **Java Full Stack Developer** | Open to Work 🚀  
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/77/17/2c/77172c52a4ef8b7c6b9a4d34b2e705a0.gif">
 
 - 🔭 Here's my [portfolio](https://gokulkrishna05-dev.github.io/Gokul-Portfolio/)  
 - 🌱 I’m currently sharpening my skills in **Java Full Stack Development** and exploring modern frameworks  
